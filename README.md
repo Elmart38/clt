@@ -1,4 +1,4 @@
-# clt
+# CLT
 
 Le projet de l'équipe CLT pour la coupe robotique 2025
 
