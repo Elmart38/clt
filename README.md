@@ -12,11 +12,15 @@ Le gabarit en bois permet de positionner correctement les PAMIs. Il y a un côt�
 On doit sélectionner 0 comme numéro de programme pour tous les PAMIs. 
 Pour les PAMIs groupies, le PAMI affiche son numéro de zone.
 
-- Le PAMI au coin est le PAMI super star
-- Le PAMI immédiatement à côté de la super star est celui qui va en zone 1. 
-- Le PAMI qui a le hub jaune va en zone 3
--  
+Position des PAMIs :
 
+- Le PAMI au coin est le PAMI super star.
+- Le PAMI immédiatement à côté de la super star est celui qui va en zone 1. Il affiche 1 au début.
+- Ensuite, le PAMI suivant est celui qui va en zone 2. Il affiche 2 au début.
+- Enfin, le dernier PAMI est celui qui va en zone 3. Il affiche 3 au début.  
 
+Orientation des PAMIs :
+
+Tous les PAMIs ont leurs roues motrices à l'avant SAUF celui qui va en zone 1.
 
 
