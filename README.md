@@ -23,4 +23,11 @@ Orientation des PAMIs :
 
 Tous les PAMIs ont leurs roues motrices à l'avant SAUF celui qui va en zone 1.
 
+TODOs:
++ Modifier les timers pour la compétition
++ Ecrire le numéro au dos du PAMI
++ Mettre une flèche au dos du PAMI pour indiquer la direction
++ Charger à bloc le hub pour la compétition
++ Prendre le chargeur de hub pour la compétition  
+
 
