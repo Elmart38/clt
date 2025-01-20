@@ -9,7 +9,7 @@ Positions des PAMIs
 Il y a 4 PAMIs à positionner.
 Le gabarit en bois permet de positionner correctement les PAMIs. Il y a un côté jaune et un côté bleu - choisir le bon côté en fonction de la couleur de l'équipe.
 
-On doit sélectionner 0 comme numéro de programme pour tous les PAMIs. 
+On doit **sélectionner 0** comme numéro de programme pour tous les PAMIs. 
 Pour les PAMIs groupies, le PAMI affiche son numéro de zone.
 
 Position des PAMIs :
@@ -21,13 +21,15 @@ Position des PAMIs :
 
 Orientation des PAMIs :
 
-Tous les PAMIs ont leurs roues motrices à l'avant SAUF celui qui va en zone 1.
+- Tous les PAMIs ont leurs roues motrices à l'avant SAUF le groupie (PAMI n°1) qui va en zone 1.
+- Pour tous les PAMIs groupie (du n°1 au n°3), la tête d'axolotl indique l'avant.
 
 TODOs:
 + Modifier les timers pour la compétition
-+ Ecrire le numéro au dos du PAMI
-+ Mettre une flèche au dos du PAMI pour indiquer la direction
++ (proposition) Ecrire le numéro au dos du PAMI (de n°0 à n°3)
++ (proposition) Mettre une flèche au dos du PAMI pour indiquer la direction
 + Charger à bloc le hub pour la compétition
 + Prendre le chargeur de hub pour la compétition  
+
 
 
